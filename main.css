@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(to right,#00ec5ad2,#06229cc4),url("moon.jpg");
+    background-size: cover;
+    background-position: top;
+    font-family: 'Ranchers', cursive;
+    margin: 0;
+
+
+}
+.clock{
+    position: relative;
+    text-align: center;
+    font-size: 48px;
+    top: 40%;
+    width: 250px;
+    left: 43%;
+    padding: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0, 0.4);
+    letter-spacing: 3px;
+}
+
+
+
